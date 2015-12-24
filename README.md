@@ -1,26 +1,27 @@
 # [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
 
-[Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
+[Freelancer](http://startbootstrap.com/template-overviews/freelancer/) es un tema 'one page' para un portafolio freelance hecho con [Bootstrap](http://getbootstrap.com/) creado por [Start Bootstrap](http://startbootstrap.com/). Este tema cuenta con varias características, un 'grid' portafolio responsivo con efecto 'hover' , componentes del portafolio en modales de página completa y un formulario de contacto funcional hecho en PHP.
 
-## Getting Started
+## Para iniciar
 
-To use this theme, choose one of the following options to get started:
+Para usar este tema, elige una de las siguientes opciones:
 * Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+* Descarga la ultima versión en Start Bootstrap
+* Bifurca(fork) este repositorio en GitHub
 
-## Bugs and Issues
+## Bugs y Problemas
 
-Have a bug or an issue with this theme? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-freelancer/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/).
+¿Tienes Problemas o Bugs con este Tema? [Abre un nuevo 'issue'](https://github.com/IronSummitMedia/startbootstrap-freelancer/issues) en GitHub o deja un mensaje en [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/).
 
-## Creator
+## Creador
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+Start Bootstrap fue creado y es mantenido por **David Miller**, Socio Directo en [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
 
 * https://twitter.com/davidmillerskt
 * https://github.com/davidtmiller
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+Start Bootstrap esta basado en [Bootstrap](http://getbootstrap.com/) framework creado por [Mark Otto](https://twitter.com/mdo) y [Jacob Thorton](https://twitter.com/fat).
 
-## Copyright and License
+## Copyright y Licencia
 
 Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
